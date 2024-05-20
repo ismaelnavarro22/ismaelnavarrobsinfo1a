@@ -1,0 +1,235 @@
+body {
+    background-color: rgb(238, 238, 238);
+    background-size: 1920px;
+    overflow:scroll;
+}
+
+.logo {
+    float: left;
+    margin-left: 455px;
+    margin-right: 520px;
+    margin-top: 33px;
+    position: absolute;
+}
+
+.head {
+    font-family: Arial, Helvetica, sans-serif;    
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+   
+} 
+
+
+.buttons {
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: -30px;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size:larger;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: inline-block;
+    color:rgb(0, 0, 0);
+}
+
+.shoebg {
+    margin-top: 20px;
+
+    cursor: pointer;
+}
+
+
+.shoebg2{
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.about {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+
+
+section {
+    max-width: 850px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+.contact {
+    font-family: Arial, Helvetica, sans-serif;    font-size: medium;
+    color: black; 
+}
+
+.footer {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;    font-size:medium;
+    font-weight: 300;
+    text-align: center;
+    width: 98%;
+    overflow: hidden;
+    position: fixed;
+    
+}
+
+.aboutpage {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;    font-size:large;
+    font-weight: bold;
+}
+
+.contactpage {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    font-weight: bold;
+}
+
+.nike {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-large;
+    margin-top: 40px;
+}
+
+.tab1{
+    margin: auto;
+    table-layout:collapse;
+    border: rgb(238, 238, 238);
+    border-collapse:separate;  
+    
+}
+
+.td1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgb(238, 238, 238);
+    
+}
+
+.shoes2 {
+    content: url(shoes2.png);
+    width: 350px;
+    transition: transform 1s;    
+    cursor: pointer;
+}
+
+.shoes3 {
+    content: url(shoes3.jpg);
+    width: 350px;
+    transition: transform 1s;  
+    cursor: pointer;
+}
+
+.shoes4 {
+    content: url(shoes4.png);
+    width: 350px;
+    transition: transform 1s;   
+    cursor: pointer;
+}
+
+.td2 {
+    padding: 10px;
+    text-align:center;
+    background: rgb(238, 238, 238);
+    border: 1px rgb(238, 238, 238);
+    border-collapse: collapse;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.price {
+        padding: 10px;
+        text-align:center;
+        background: rgb(238, 238, 238);
+        border: 1px rgb(238, 238, 238);
+        border-collapse:separate;
+        color: rgb(0, 0, 0);
+        font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+        .adidas {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size:x-large;
+            margin-top: 40px;
+
+        }
+        .tab2{
+            margin: auto;
+            table-layout:collapse;
+            border: rgb(238, 238, 238);
+            border-collapse:separate;  
+            
+        }
+        
+        .td3 {
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            background: rgb(238, 238, 238);
+            
+        }
+
+        .adidas1 {
+            content: url(sambas.png);
+            width: 350px;
+            transition: transform 1s;    
+            cursor: pointer;
+        }
+
+        .adidas2 {
+            content: url(tmacadidas.png);
+            width: 350px;
+            transition: transform 1s;    
+            cursor: pointer;
+        }
+
+        .adidas3 {
+            content: url(duramo.png);
+            width: 350px;
+            transition: transform 1s;    
+            cursor: pointer;
+        }
+
+        .td4 {
+            padding: 10px;
+            text-align:center;
+            background: rgb(238, 238, 238);
+            border: 1px rgb(238, 238, 238);
+            border-collapse: collapse;
+            color: rgb(0, 0, 0);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .price2 {
+            padding: 10px;
+             text-align:center;
+            background: rgb(238, 238, 238);
+            border: 1px rgb(238, 238, 238);
+            border-collapse:separate;
+            color: rgb(0, 0, 0);
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        
